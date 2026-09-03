@@ -1,0 +1,53 @@
+go to tutriol folder and follow all the steps care fully 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+Hope you do every thing now 
+wait until the environment create
+after that go to Requirements.txt
+
+
+
+
+press 
+Ctrl  + `  
+
+and type >> pip install -r .\Requirements.txt
+
+now wait to install all library 
+
+after all of that go and check everyfile is all library is install or not 
+
+
+
+then go to env file and 
+
+COHERE_API_KEY = Your key
+Username = Your Name
+AssistantName = Your assistant name
+GroqAPIKey = you key
+InputLanguage = hi 
+AssistantVoice = en-CA-LiamNeural
+HuggingFaceAPIKey = your key
+
+
+
+
+here go and get cohere key from its website same with other .
+
+
+
+InputLanguage is set to "hi"  which refers to hindi means you can talk in hindi and he can recognize it 
+save this file 
+and now if you want to run the assistant then 
+run Main.py in vs code 
+
+
+
+
+
+
+you can get errors so dont ask help
