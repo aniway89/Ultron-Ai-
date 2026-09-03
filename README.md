@@ -93,7 +93,6 @@ python Main.py
 - [ ] Add the missing image generation module
 - [ ] Cross-platform path handling
 - [ ] Pin dependency versions in `Requirements.txt`
-- [ ] Add a demo GIF/screenshot here
 
 ## License
 
